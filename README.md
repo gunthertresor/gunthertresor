@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 Alumni in Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
+🦾 Alumni in Web development(Ruby on Rails) at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
 ## I'm a Father, Developer, Digital craftsman!!
 
 
