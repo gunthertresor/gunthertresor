@@ -1,7 +1,7 @@
 # 💫 About Me:
 🦾 Alumni in Web development(Ruby on Rails) at Le Wagon - Online <br>🥽 Batch #1268<br>
 **`I'm a Father, Developer, Digital craftsman`**
-
+#
 
 ### Frontend 
 
