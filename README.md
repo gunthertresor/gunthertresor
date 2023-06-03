@@ -1,11 +1,11 @@
-### Hi there 👋
+# 💫 About Me:
+🦾 Alumni in Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-varin-4a885143/)
+
 
 ### Languages and Tools:
 
