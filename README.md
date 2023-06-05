@@ -14,7 +14,7 @@
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="StimulusJS" width="30px" style="padding-right:10px;" src=".img/terminal/stimulus-seeklogo.com-2.svg" />
+<img align="left" alt="StimulusJS" width="30px" style="padding-right:10px;" src="./img/terminal/stimulus-seeklogo.com-2.svg"/>
 <br>
 
 ### Backend
