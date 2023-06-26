@@ -1,10 +1,14 @@
 # Hi there, I'm Günther Tresor 👋
 
 🧑🏿‍🎓 Alumni in Web development(Ruby on Rails) at Le Wagon - Online <br>🥽 Batch #1268<br>
-**`I'm a Father, Developer, Digital craftsman`**  👨🏿‍💻
+**`I'm a Father, Developer`**  👨🏿‍💻
 <br>
 #
+<br>
+#
+### My Projects
 
+<br>
 ### Frontend 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
